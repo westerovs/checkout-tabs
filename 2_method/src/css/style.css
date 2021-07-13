@@ -23,6 +23,7 @@ h1 {
     font-size: 25px;
     padding: 20px 0;
     text-shadow: 0 0 4px silver;
+    text-align: center;
 }
 
 li {
@@ -76,3 +77,5 @@ li {
 .content-item.is-active {
     display: block;
 }
+
+
